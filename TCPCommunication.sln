@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPCommunication", "TCPCommunication\TCPCommunication.csproj", "{BDF85B1E-922C-486D-A651-E33A972299DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Obfuscated|Any CPU = Obfuscated|Any CPU
+		Obfuscated|x86 = Obfuscated|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Obfuscated|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Obfuscated|Any CPU.Build.0 = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Obfuscated|x86.ActiveCfg = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Obfuscated|x86.Build.0 = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{BDF85B1E-922C-486D-A651-E33A972299DF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
